@@ -1,83 +1,69 @@
-<!-- ===================== DEVOPS BANNER ===================== -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,100:020024&text=Shahul%20Hameed&fontColor=00eaff&fontSize=42&desc=DevOps%20Engineer%20|%20Cloud%20%7C%20CI%2FCD%20%7C%20Automation&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,100:020024&text=Shahul%20Hameed&fontColor=00eaff&fontSize=40&desc=DevOps%20Engineer%20|%20Cloud%20%7C%20CI%2FCD&descAlignY=70" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=720&lines=Automating+Infrastructure...;Building+CI%2FCD+Pipelines...;Running+Production+Systems...;Handling+Incidents+Reliably" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Automate+Everything.;Build+Reliable+Systems.;Deploy+with+Confidence." />
 </p>
 
 ---
 
-## 👤 Profile
+## 👋 Hi, I’m Shahul Hameed
 
 🚀 **DevOps Engineer | Junior Cloud Engineer**
 
-I work on **automating deployments, managing containerized workloads, and operating reliable cloud infrastructure**.  
-My focus is on **CI/CD automation, Kubernetes, AWS, monitoring, and incident management** to keep production systems stable and scalable.
-
-I enjoy building systems where:
-- Deployments are predictable  
-- Infrastructure is reproducible  
-- Failures are observable  
-- Recovery is fast  
+I work with **cloud, CI/CD, and containers** to build systems that are **automated, reliable, and production-ready**.  
+I enjoy simplifying deployments and keeping systems stable under real-world load.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy.gif" width="380"/>
+  <img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy.gif" width="360"/>
 </p>
 
 ---
 
-## 🧰 Skills & Tools
+## 🛠 Skills & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,jenkins,terraform,ansible,linux,bash" />
 </p>
 
-### 🔁 CI/CD & Automation
-- Jenkins, GitHub Actions  
-- Docker image build & versioning  
-- Automated deployments to Kubernetes  
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="320"/>
+</p>
+
+**What I work with:**
+- CI/CD pipelines (Jenkins, GitHub Actions)
+- Docker & Kubernetes
+- AWS cloud services
+- Infrastructure as Code
+- Monitoring & Incident Management (ServiceNow)
+
+---
+
+## ☁️ What I Like Building
+
+- Automated deployments  
+- Reproducible infrastructure  
+- Observable systems  
+- Fast incident recovery  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="360"/>
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="320"/>
 </p>
 
 ---
 
-### ☁️ Cloud & Infrastructure
-- AWS (EC2, EKS, IAM, VPC, S3)  
-- Infrastructure as Code (Terraform, Ansible)  
-- Kubernetes workload management  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="360"/>
-</p>
-
----
-
-### 📊 Monitoring & ITSM
-- Prometheus & Grafana  
-- AWS CloudWatch  
-- ServiceNow  
-- Incident & Change Management  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l46CkATpdyLwLI7vi/giphy.gif" width="340"/>
-</p>
-
----
-
-## 📫 Contact
+## 📫 Let’s Connect
 
 📧 **Email:** h4meed03@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/h4meed  
 🐙 **GitHub:** https://github.com/Hamsab31  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="240"/>
 </p>
 
 <p align="center">
-  <b>⚙️ AUTOMATE • DEPLOY • MONITOR • SCALE</b>
+  <b>⚙️ automate • deploy • monitor • scale</b>
 </p>
