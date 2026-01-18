@@ -1,132 +1,83 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== DEVOPS BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020024,100:090979&text=DEVOPS%20RIDER&fontColor=00eaff&fontSize=44&desc=Shahul%20Hameed%20|%20Cloud%20%7C%20CI%2FCD%20%7C%20Automation&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,100:020024&text=Shahul%20Hameed&fontColor=00eaff&fontSize=42&desc=DevOps%20Engineer%20|%20Cloud%20%7C%20CI%2FCD%20%7C%20Automation&descAlignY=70" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="420"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=720&lines=Automating+Infrastructure...;Building+CI%2FCD+Pipelines...;Running+Production+Systems...;Handling+Incidents+Reliably" />
 </p>
 
 ---
 
-# 🏍️ Player Profile
+## 👤 Profile
 
-**Name:** Shahul Hameed  
-**Role:** DevOps Engineer | Junior Cloud Engineer  
-**Mode:** Production • Automation • Cloud  
-**Current Map:** LTIMindtree  
+🚀 **DevOps Engineer | Junior Cloud Engineer**
 
-I build **reliable infrastructure**, automate **CI/CD pipelines**, and keep **production systems stable**.  
-My portfolio is designed like a **game** — because DevOps is all about clearing levels without downtime 🚀
+I work on **automating deployments, managing containerized workloads, and operating reliable cloud infrastructure**.  
+My focus is on **CI/CD automation, Kubernetes, AWS, monitoring, and incident management** to keep production systems stable and scalable.
 
----
+I enjoy building systems where:
+- Deployments are predictable  
+- Infrastructure is reproducible  
+- Failures are observable  
+- Recovery is fast  
 
-## 🎮 Game Stats
-
-| Stat | Value |
-|----|----|
-| Experience | 2+ Years (Support + DevOps) |
-| Incidents Handled | 100+ / month |
-| SLA Compliance | 98% |
-| MTTR Improvement | ~15% |
-| Core Focus | Automation & Reliability |
+<p align="center">
+  <img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy.gif" width="380"/>
+</p>
 
 ---
 
-## 🧰 Inventory (Skills Unlocked)
+## 🧰 Skills & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,jenkins,terraform,ansible,linux,bash" />
 </p>
 
 ### 🔁 CI/CD & Automation
-- Jenkins
-- GitHub Actions
-- Docker build & image versioning
-- Branch-based deployments
+- Jenkins, GitHub Actions  
+- Docker image build & versioning  
+- Automated deployments to Kubernetes  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="360"/>
+</p>
+
+---
+
+### ☁️ Cloud & Infrastructure
+- AWS (EC2, EKS, IAM, VPC, S3)  
+- Infrastructure as Code (Terraform, Ansible)  
+- Kubernetes workload management  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="360"/>
+</p>
+
+---
 
 ### 📊 Monitoring & ITSM
-- Prometheus
-- Grafana
-- AWS CloudWatch
-- ServiceNow
-- Incident & Change Management
-
----
-
-## 🗺️ Levels Cleared (Professional Experience)
-
-### 🧱 LTIMindtree — Junior Cloud / DevOps Engineer
-- Managed **100+ production incidents/month**
-- Maintained **98% SLA compliance**
-- Authored **15+ SOPs & KBs**
-- Reduced **recurring issues & MTTR by ~15%**
-- Performed **OS patching, vulnerability remediation**
-- Supported **production deployments & monitoring**
-- Collaborated on **RCA, releases & change management**
+- Prometheus & Grafana  
+- AWS CloudWatch  
+- ServiceNow  
+- Incident & Change Management  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="380"/>
+  <img src="https://media.giphy.com/media/l46CkATpdyLwLI7vi/giphy.gif" width="340"/>
 </p>
 
 ---
 
-## 🧠 Boss Battles (DevOps Projects)
-
-### 🧠 Brain Task — CI/CD Boss
-**Tech:** AWS · Docker · EKS · CodePipeline · CodeBuild · ECR  
-- Fully automated CI/CD pipeline
-- Containerized application deployment
-- Exposed via AWS LoadBalancer  
-
-🔗 https://github.com/Hamsab31/Brain-task---Devops---project
-
----
-
-### 🛍 Online Shop — Infrastructure Boss
-**Tech:** Jenkins · Docker · Kubernetes · Terraform · AWS  
-- Jenkins-driven CI/CD
-- Dockerized React application
-- Infrastructure provisioning with Terraform  
-
-🔗 https://github.com/Hamsab31/Onlineshop-project
-
----
-
-### 🛒 Trendstore — Final Boss
-**Tech:** Jenkins · Kubernetes · AWS · Prometheus · Grafana  
-- Production-style CI/CD
-- Load Balancer integration
-- Monitoring & alerting setup  
-
-🔗 https://github.com/Hamsab31/Trendstore-project
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
-</p>
-
----
-
-## 📈 Player Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamsab31&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🏁 Final Checkpoint — Contact
+## 📫 Contact
 
 📧 **Email:** h4meed03@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/h4meed  
 🐙 **GitHub:** https://github.com/Hamsab31  
 
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="260"/>
 </p>
 
 <p align="center">
-  <b>🎮 GAME COMPLETE — READY FOR NEXT LEVEL</b>
+  <b>⚙️ AUTOMATE • DEPLOY • MONITOR • SCALE</b>
 </p>
