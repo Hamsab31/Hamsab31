@@ -1,69 +1,71 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== CLEAN HEADER ===================== -->
+<h1 align="center">Shahul Hameed</h1>
+<h3 align="center">DevOps Engineer • Cloud • CI/CD</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,100:020024&text=Shahul%20Hameed&fontColor=00eaff&fontSize=40&desc=DevOps%20Engineer%20|%20Cloud%20%7C%20CI%2FCD&descAlignY=70" />
+  <img src="https://img.shields.io/badge/DevOps-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-Automation-1e293b?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Automate+Everything.;Build+Reliable+Systems.;Deploy+with+Confidence." />
-</p>
-
----
-
-## 👋 Hi, I’m Shahul Hameed
-
-🚀 **DevOps Engineer | Junior Cloud Engineer**
-
-I work with **cloud, CI/CD, and containers** to build systems that are **automated, reliable, and production-ready**.  
-I enjoy simplifying deployments and keeping systems stable under real-world load.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy.gif" width="360"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=16&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=500&lines=Building+reliable+cloud+systems.;Automating+deployments.;Keeping+production+stable." />
 </p>
 
 ---
 
-## 🛠 Skills & Tools
+## 👋 About Me
+
+I’m a **DevOps Engineer** focused on building **automated, scalable, and reliable infrastructure**.  
+I enjoy working on systems where deployments are smooth, failures are visible, and recovery is fast.
+
+I mostly work with **cloud platforms, CI/CD pipelines, containers, and monitoring tools** to support production environments.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="260"/>
+</p>
+
+---
+
+## 🛠 Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,jenkins,terraform,ansible,linux,bash" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="320"/>
-</p>
-
-**What I work with:**
-- CI/CD pipelines (Jenkins, GitHub Actions)
-- Docker & Kubernetes
-- AWS cloud services
-- Infrastructure as Code
+- CI/CD automation (Jenkins, GitHub Actions)  
+- Docker & Kubernetes  
+- AWS cloud services  
+- Infrastructure as Code  
 - Monitoring & Incident Management (ServiceNow)
 
----
-
-## ☁️ What I Like Building
-
-- Automated deployments  
-- Reproducible infrastructure  
-- Observable systems  
-- Fast incident recovery  
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260"/>
 </p>
 
 ---
 
-## 📫 Let’s Connect
+## ☁️ What I Do
 
-📧 **Email:** h4meed03@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/h4meed  
-🐙 **GitHub:** https://github.com/Hamsab31  
+- Automate build and deployment pipelines  
+- Manage containerized workloads  
+- Monitor production systems  
+- Handle incidents and reduce downtime  
+
+---
+
+## 📫 Contact
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="240"/>
+  <a href="mailto:h4meed03@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/h4meed">💼 LinkedIn</a> •
+  <a href="https://github.com/Hamsab31">🐙 GitHub</a>
 </p>
 
 <p align="center">
-  <b>⚙️ automate • deploy • monitor • scale</b>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
+</p>
+
+<p align="center">
+  <sub>clean • simple • production-focused</sub>
 </p>
