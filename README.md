@@ -1,126 +1,132 @@
-![DevOps Banner](https://capsule-render.vercel.app/api?type=waving&height=220&text=Shahul%20Hameed&fontAlign=50&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20CI%2FCD%20%7C%20Automation&descAlign=50&descAlignY=60&color=0:0f2027,100:203a43)
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020024,100:090979&text=DEVOPS%20RIDER&fontColor=00eaff&fontSize=44&desc=Shahul%20Hameed%20|%20Cloud%20%7C%20CI%2FCD%20%7C%20Automation&descAlignY=70" />
+</p>
 
-# 👋 Hi, I’m Shahul Hameed
-
-🚀 **DevOps Engineer | Junior Cloud Engineer**  
-🛠 I build reliable infrastructure, automate deployments, and keep production systems stable.
-
----
-
-## 🧠 About Me
-
-I am a DevOps-focused Cloud Engineer with strong hands-on experience in **CI/CD automation, containerization, cloud infrastructure, and production support**.
-
-I enjoy solving real-world problems by:
-- Automating repetitive workflows  
-- Improving system reliability  
-- Reducing deployment risks  
-- Optimizing incident response  
-
-Currently working at **LTIMindtree**, supporting enterprise-scale applications and collaborating closely with DevOps and infrastructure teams.
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="420"/>
+</p>
 
 ---
 
-## 🧰 Tech Stack & Skills
+# 🏍️ Player Profile
 
-### 🔧 DevOps & Cloud
-- Git
-- Docker
-- Kubernetes
-- AWS (EC2, EKS, IAM, VPC, S3)
-- Terraform
-- Ansible
+**Name:** Shahul Hameed  
+**Role:** DevOps Engineer | Junior Cloud Engineer  
+**Mode:** Production • Automation • Cloud  
+**Current Map:** LTIMindtree  
+
+I build **reliable infrastructure**, automate **CI/CD pipelines**, and keep **production systems stable**.  
+My portfolio is designed like a **game** — because DevOps is all about clearing levels without downtime 🚀
+
+---
+
+## 🎮 Game Stats
+
+| Stat | Value |
+|----|----|
+| Experience | 2+ Years (Support + DevOps) |
+| Incidents Handled | 100+ / month |
+| SLA Compliance | 98% |
+| MTTR Improvement | ~15% |
+| Core Focus | Automation & Reliability |
+
+---
+
+## 🧰 Inventory (Skills Unlocked)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,jenkins,terraform,ansible,linux,bash" />
+</p>
 
 ### 🔁 CI/CD & Automation
 - Jenkins
 - GitHub Actions
-- Pipeline automation
-- Docker image build & deployment
-- Infrastructure as Code (IaC)
+- Docker build & image versioning
+- Branch-based deployments
 
 ### 📊 Monitoring & ITSM
 - Prometheus
 - Grafana
 - AWS CloudWatch
 - ServiceNow
-- Incident Management
-- SLA & MTTR optimization
-
-### 🐧 OS & Scripting
-- Linux Administration
-- Bash / Shell scripting
-- YAML
+- Incident & Change Management
 
 ---
 
-## 💼 Professional Experience
+## 🗺️ Levels Cleared (Professional Experience)
 
-**Junior Cloud Engineer / DevOps Engineer**  
-📍 *LTIMindtree – Coimbatore*  
+### 🧱 LTIMindtree — Junior Cloud / DevOps Engineer
+- Managed **100+ production incidents/month**
+- Maintained **98% SLA compliance**
+- Authored **15+ SOPs & KBs**
+- Reduced **recurring issues & MTTR by ~15%**
+- Performed **OS patching, vulnerability remediation**
+- Supported **production deployments & monitoring**
+- Collaborated on **RCA, releases & change management**
 
-- Managed **100+ production incidents per month** with **98% SLA compliance**
-- Authored **15+ SOPs & KB documents**, reducing recurring issues
-- Improved **MTTR by ~15%** through structured incident handling
-- Performed **OS patching, vulnerability remediation, and security fixes**
-- Supported production deployments with pre-checks & post-validation
-- Monitored applications to ensure uptime and stability
-- Collaborated with DevOps teams for release support, RCA, and change management
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="380"/>
+</p>
 
 ---
 
-## 🚀 Featured DevOps Projects
+## 🧠 Boss Battles (DevOps Projects)
 
-### 🧠 Brain Task – DevOps CI/CD Project
-**Tech:** AWS, Docker, Kubernetes (EKS), CodePipeline, CodeBuild, ECR  
-
-- Built a fully automated CI/CD pipeline
-- Containerized application with Docker
-- Deployed to AWS EKS and exposed via LoadBalancer  
+### 🧠 Brain Task — CI/CD Boss
+**Tech:** AWS · Docker · EKS · CodePipeline · CodeBuild · ECR  
+- Fully automated CI/CD pipeline
+- Containerized application deployment
+- Exposed via AWS LoadBalancer  
 
 🔗 https://github.com/Hamsab31/Brain-task---Devops---project
 
 ---
 
-### 🛍 Online Shop – CI/CD on AWS
-**Tech:** Jenkins, Docker, Kubernetes, Terraform, AWS  
-
-- Automated CI/CD pipeline using Jenkins
+### 🛍 Online Shop — Infrastructure Boss
+**Tech:** Jenkins · Docker · Kubernetes · Terraform · AWS  
+- Jenkins-driven CI/CD
 - Dockerized React application
-- Provisioned infrastructure using Terraform  
+- Infrastructure provisioning with Terraform  
 
 🔗 https://github.com/Hamsab31/Onlineshop-project
 
 ---
 
-### 🛒 Trendstore – Production-Style Deployment
-**Tech:** Jenkins, Docker, Kubernetes, AWS, Monitoring  
-
-- Production-ready deployment with CI/CD
+### 🛒 Trendstore — Final Boss
+**Tech:** Jenkins · Kubernetes · AWS · Prometheus · Grafana  
+- Production-style CI/CD
 - Load Balancer integration
-- Monitoring using Prometheus & Grafana  
+- Monitoring & alerting setup  
 
 🔗 https://github.com/Hamsab31/Trendstore-project
 
----
-
-## 📈 GitHub Stats
-
-![Shahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamsab31&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+</p>
 
 ---
 
-## 📫 Let’s Connect
+## 📈 Player Analytics
 
-- 💼 LinkedIn: https://www.linkedin.com/in/h4meed
-- 🐙 GitHub: https://github.com/Hamsab31
-- 📧 Email: h4meed03@gmail.com
-
----
-
-## 🎯 Fun Note
-
-I’m currently building a **game-style DevOps portfolio website** where each level represents my skills and projects — because learning and showcasing DevOps should be fun 🚀🎮
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamsab31&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile!*
+## 🏁 Final Checkpoint — Contact
+
+📧 **Email:** h4meed03@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/h4meed  
+🐙 **GitHub:** https://github.com/Hamsab31  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  <b>🎮 GAME COMPLETE — READY FOR NEXT LEVEL</b>
+</p>
