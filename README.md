@@ -1,128 +1,126 @@
-Hi there, I'm Shahul Hameed 👋
+![DevOps Banner](https://capsule-render.vercel.app/api?type=waving&height=220&text=Shahul%20Hameed&fontAlign=50&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20CI%2FCD%20%7C%20Automation&descAlign=50&descAlignY=60&color=0:0f2027,100:203a43)
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3D0099ff%26height%3D200%26section%3Dheader%26text%3DDevOps%2520Engineer%26fontSize%3D60%26animation%3DfadeIn%26fontAlignY%3D38" alt="Header" />
-</p>
+# 👋 Hi, I’m Shahul Hameed
 
-🚀 About Me
+🚀 **DevOps Engineer | Junior Cloud Engineer**  
+🛠 I build reliable infrastructure, automate deployments, and keep production systems stable.
 
-I am a DevOps-focused Cloud Engineer with over 2 years of experience in application support and a passion for automating infrastructure. Currently, I'm working as a Junior Cloud Engineer at LTIMindtree, where I manage production environments and streamline CI/CD workflows.
+---
 
-☁️ Cloud Specialist: Proficient in AWS services (EKS, ECR, CodePipeline, EC2).
+## 🧠 About Me
 
-🛠️ Automation Enthusiast: Hands-on experience with Terraform for IaC and Ansible for configuration.
+I am a DevOps-focused Cloud Engineer with strong hands-on experience in **CI/CD automation, containerization, cloud infrastructure, and production support**.
 
-🚢 Container Pro: Expert in Dockerizing applications and orchestrating them via Kubernetes (EKS).
+I enjoy solving real-world problems by:
+- Automating repetitive workflows  
+- Improving system reliability  
+- Reducing deployment risks  
+- Optimizing incident response  
 
-📈 Incident Management: Managing 100+ production incidents monthly with 98% SLA compliance.
+Currently working at **LTIMindtree**, supporting enterprise-scale applications and collaborating closely with DevOps and infrastructure teams.
 
-🛠️ Tech Stack & Skills
+---
 
-<table align="center">
-<tr>
-<td align="center" width="150"><b>Cloud & IaC</b></td>
-<td align="center" width="150"><b>Containers</b></td>
-<td align="center" width="150"><b>CI/CD</b></td>
-<td align="center" width="150"><b>Monitoring/ITSM</b></td>
-</tr>
-<tr>
-<td>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" />
+## 🧰 Tech Stack & Skills
 
+### 🔧 DevOps & Cloud
+- Git
+- Docker
+- Kubernetes
+- AWS (EC2, EKS, IAM, VPC, S3)
+- Terraform
+- Ansible
 
+### 🔁 CI/CD & Automation
+- Jenkins
+- GitHub Actions
+- Pipeline automation
+- Docker image build & deployment
+- Infrastructure as Code (IaC)
 
+### 📊 Monitoring & ITSM
+- Prometheus
+- Grafana
+- AWS CloudWatch
+- ServiceNow
+- Incident Management
+- SLA & MTTR optimization
 
+### 🐧 OS & Scripting
+- Linux Administration
+- Bash / Shell scripting
+- YAML
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Terraform-7B42BC%3Fstyle%3Dfor-the-badge%26logo%3Dterraform%26logoColor%3Dwhite" />
+---
 
+## 💼 Professional Experience
 
+**Junior Cloud Engineer / DevOps Engineer**  
+📍 *LTIMindtree – Coimbatore*  
 
+- Managed **100+ production incidents per month** with **98% SLA compliance**
+- Authored **15+ SOPs & KB documents**, reducing recurring issues
+- Improved **MTTR by ~15%** through structured incident handling
+- Performed **OS patching, vulnerability remediation, and security fixes**
+- Supported production deployments with pre-checks & post-validation
+- Monitored applications to ensure uptime and stability
+- Collaborated with DevOps teams for release support, RCA, and change management
 
+---
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Ansible-EE0000%3Fstyle%3Dfor-the-badge%26logo%3Dansible%26logoColor%3Dwhite" />
-</td>
-<td>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" />
+## 🚀 Featured DevOps Projects
 
+### 🧠 Brain Task – DevOps CI/CD Project
+**Tech:** AWS, Docker, Kubernetes (EKS), CodePipeline, CodeBuild, ECR  
 
+- Built a fully automated CI/CD pipeline
+- Containerized application with Docker
+- Deployed to AWS EKS and exposed via LoadBalancer  
 
+🔗 https://github.com/Hamsab31/Brain-task---Devops---project
 
+---
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dfor-the-badge%26logo%3Dkubernetes%26logoColor%3Dwhite" />
-</td>
-<td>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Jenkins-D24939%3Fstyle%3Dfor-the-badge%26logo%3Djenkins%26logoColor%3Dwhite" />
+### 🛍 Online Shop – CI/CD on AWS
+**Tech:** Jenkins, Docker, Kubernetes, Terraform, AWS  
 
+- Automated CI/CD pipeline using Jenkins
+- Dockerized React application
+- Provisioned infrastructure using Terraform  
 
+🔗 https://github.com/Hamsab31/Onlineshop-project
 
+---
 
+### 🛒 Trendstore – Production-Style Deployment
+**Tech:** Jenkins, Docker, Kubernetes, AWS, Monitoring  
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
+- Production-ready deployment with CI/CD
+- Load Balancer integration
+- Monitoring using Prometheus & Grafana  
 
+🔗 https://github.com/Hamsab31/Trendstore-project
 
+---
 
+## 📈 GitHub Stats
 
+![Shahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamsab31&show_icons=true&theme=tokyonight)
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub_Actions-2088FF%3Fstyle%3Dfor-the-badge%26logo%3Dgithub-actions%26logoColor%3Dwhite" />
-</td>
-<td>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/ServiceNow-293E40%3Fstyle%3Dfor-the-badge%26logo%3Dservicenow%26logoColor%3Dwhite" />
+---
 
+## 📫 Let’s Connect
 
+- 💼 LinkedIn: https://www.linkedin.com/in/h4meed
+- 🐙 GitHub: https://github.com/Hamsab31
+- 📧 Email: h4meed03@gmail.com
 
+---
 
+## 🎯 Fun Note
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Prometheus-E6522C%3Fstyle%3Dfor-the-badge%26logo%3Dprometheus%26logoColor%3Dwhite" />
+I’m currently building a **game-style DevOps portfolio website** where each level represents my skills and projects — because learning and showcasing DevOps should be fun 🚀🎮
 
+---
 
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Grafana-F46800%3Fstyle%3Dfor-the-badge%26logo%3Dgrafana%26logoColor%3Dwhite" />
-</td>
-</tr>
-</table>
-
-🏗️ Featured Projects
-
-🧠 Brain Tasks App - CI/CD Pipeline
-
-Automated Deployment to AWS EKS
-
-Tech: AWS CodePipeline, CodeBuild, ECR, EKS, Docker.
-
-Outcome: Built a fully automated pipeline that containerizes the app and deploys it to a Kubernetes cluster with LoadBalancer exposure.
-
-🛒 React eCommerce CI/CD
-
-Production-ready Deployment
-
-Tech: Jenkins, Docker, Nginx, AWS EC2.
-
-Outcome: Implemented branch-based deployments and integrated monitoring using Uptime Kuma to ensure 99.9% availability.
-
-👗 Cloud Clothing Platform
-
-Infrastructure as Code
-
-Tech: Terraform, Jenkins, Prometheus, Grafana.
-
-Outcome: Provisioned entire AWS infrastructure using Terraform and enabled real-time observability for the application.
-
-📊 GitHub Stats
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHamsab31%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue" alt="Shahul's Stats" height="180px" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHamsab31%26layout%3Dcompact%26theme%3Dtokyonight%26hide%3Dhtml,css" alt="Top Languages" height="180px" />
-</p>
-
-🤝 Connect with Me
-
-<p align="left">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/h4meed" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/-Shahul%2520Hameed-0077B5%3Fstyle%3Dflat-square%26logo%3DLinkedin%26logoColor%3Dwhite" alt="Shahul Hameed" /></a>
-<a href="mailto:h4meed03@gmail.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/-h4meed03%2540gmail.com-D14836%3Fstyle%3Dflat-square%26logo%3DGmail%26logoColor%3Dwhite" alt="h4meed03@gmail.com" /></a>
-</p>
-
-<p align="center">
-<i>"Automating the world, one commit at a time."</i>
-</p>
+⭐ *Thanks for visiting my GitHub profile!*
